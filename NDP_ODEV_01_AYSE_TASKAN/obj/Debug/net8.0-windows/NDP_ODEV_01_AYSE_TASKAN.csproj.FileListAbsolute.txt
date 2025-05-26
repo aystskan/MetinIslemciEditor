@@ -1,0 +1,17 @@
+C:\Users\hayat\source\repos\NDP_ODEV_01_AYSE_TASKAN\bin\Debug\net8.0-windows\NDP_ODEV_01_AYSE_TASKAN.exe
+C:\Users\hayat\source\repos\NDP_ODEV_01_AYSE_TASKAN\bin\Debug\net8.0-windows\NDP_ODEV_01_AYSE_TASKAN.deps.json
+C:\Users\hayat\source\repos\NDP_ODEV_01_AYSE_TASKAN\bin\Debug\net8.0-windows\NDP_ODEV_01_AYSE_TASKAN.runtimeconfig.json
+C:\Users\hayat\source\repos\NDP_ODEV_01_AYSE_TASKAN\bin\Debug\net8.0-windows\NDP_ODEV_01_AYSE_TASKAN.dll
+C:\Users\hayat\source\repos\NDP_ODEV_01_AYSE_TASKAN\bin\Debug\net8.0-windows\NDP_ODEV_01_AYSE_TASKAN.pdb
+C:\Users\hayat\source\repos\NDP_ODEV_01_AYSE_TASKAN\obj\Debug\net8.0-windows\NDP_ODEV_01_AYSE_TASKAN.Form1.resources
+C:\Users\hayat\source\repos\NDP_ODEV_01_AYSE_TASKAN\obj\Debug\net8.0-windows\NDP_ODEV_01_AYSE_TASKAN.csproj.GenerateResource.cache
+C:\Users\hayat\source\repos\NDP_ODEV_01_AYSE_TASKAN\obj\Debug\net8.0-windows\NDP_ODEV_01_AYSE_TASKAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayat\source\repos\NDP_ODEV_01_AYSE_TASKAN\obj\Debug\net8.0-windows\NDP_ODEV_01_AYSE_TASKAN.AssemblyInfoInputs.cache
+C:\Users\hayat\source\repos\NDP_ODEV_01_AYSE_TASKAN\obj\Debug\net8.0-windows\NDP_ODEV_01_AYSE_TASKAN.AssemblyInfo.cs
+C:\Users\hayat\source\repos\NDP_ODEV_01_AYSE_TASKAN\obj\Debug\net8.0-windows\NDP_ODEV_01_AYSE_TASKAN.csproj.CoreCompileInputs.cache
+C:\Users\hayat\source\repos\NDP_ODEV_01_AYSE_TASKAN\obj\Debug\net8.0-windows\NDP_ODEV_01_AYSE_TASKAN.dll
+C:\Users\hayat\source\repos\NDP_ODEV_01_AYSE_TASKAN\obj\Debug\net8.0-windows\refint\NDP_ODEV_01_AYSE_TASKAN.dll
+C:\Users\hayat\source\repos\NDP_ODEV_01_AYSE_TASKAN\obj\Debug\net8.0-windows\NDP_ODEV_01_AYSE_TASKAN.pdb
+C:\Users\hayat\source\repos\NDP_ODEV_01_AYSE_TASKAN\obj\Debug\net8.0-windows\NDP_ODEV_01_AYSE_TASKAN.genruntimeconfig.cache
+C:\Users\hayat\source\repos\NDP_ODEV_01_AYSE_TASKAN\obj\Debug\net8.0-windows\ref\NDP_ODEV_01_AYSE_TASKAN.dll
+C:\Users\hayat\source\repos\NDP_ODEV_01_AYSE_TASKAN\obj\Debug\net8.0-windows\NDP_ODEV_01_AYSE_TASKAN.Properties.Resources.resources

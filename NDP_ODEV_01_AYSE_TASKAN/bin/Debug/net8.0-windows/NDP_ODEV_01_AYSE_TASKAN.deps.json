@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NDP_ODEV_01_AYSE_TASKAN/1.0.0": {
+        "runtime": {
+          "NDP_ODEV_01_AYSE_TASKAN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NDP_ODEV_01_AYSE_TASKAN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
